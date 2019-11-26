@@ -1,0 +1,9 @@
+local.php
+
+wp-config.php
+.htaccess
+license.txt
+readme.html
+
+wp-content/plugins/akismet
+wp-content/plugins/hello.php
